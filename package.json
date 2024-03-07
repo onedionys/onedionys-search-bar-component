@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-search-bar-component",
+  "version": "1.0.0",
+  "description": "One Dionys (Search Bar Component) - A component to add a search feature in a web application.",
+  "main": "src/search-bar.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-search-bar-component.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "search-bar-component"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-search-bar-component/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-search-bar-component#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-color-manipulation": "^1.0.0",
+    "onedionys-http-client": "^1.0.0",
+    "onedionys-image-loading-utilities": "^1.0.0",
+    "onedionys-notification-system": "^1.0.0",
+    "onedionys-user-authentication": "^1.0.0"
+  }
+}

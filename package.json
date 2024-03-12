@@ -1,6 +1,6 @@
 {
   "name": "onedionys-search-bar-component",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Search Bar Component) - A component to add a search feature in a web application.",
   "main": "src/search-bar.js",
   "directories": {
